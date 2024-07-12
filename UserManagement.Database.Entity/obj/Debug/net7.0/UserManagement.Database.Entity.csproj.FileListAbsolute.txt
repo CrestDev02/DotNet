@@ -1,0 +1,12 @@
+D:\Projects\UserManagement\UserManagement.Database.Entity\bin\Debug\net7.0\UserManagement.Database.Entity.deps.json
+D:\Projects\UserManagement\UserManagement.Database.Entity\bin\Debug\net7.0\UserManagement.Database.Entity.dll
+D:\Projects\UserManagement\UserManagement.Database.Entity\bin\Debug\net7.0\UserManagement.Database.Entity.pdb
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.Database.Entity.csproj.AssemblyReference.cache
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.Database.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.Database.Entity.AssemblyInfoInputs.cache
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.Database.Entity.AssemblyInfo.cs
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.Database.Entity.csproj.CoreCompileInputs.cache
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.Database.Entity.dll
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\refint\UserManagement.Database.Entity.dll
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.Database.Entity.pdb
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\ref\UserManagement.Database.Entity.dll

@@ -1,0 +1,12 @@
+D:\Projects\UserManagement\UserManagement.Database.Entity\bin\Debug\net7.0\UserManagement.DataAccess.deps.json
+D:\Projects\UserManagement\UserManagement.Database.Entity\bin\Debug\net7.0\UserManagement.DataAccess.dll
+D:\Projects\UserManagement\UserManagement.Database.Entity\bin\Debug\net7.0\UserManagement.DataAccess.pdb
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.DataAccess.AssemblyInfo.cs
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.DataAccess.dll
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\refint\UserManagement.DataAccess.dll
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\UserManagement.DataAccess.pdb
+D:\Projects\UserManagement\UserManagement.Database.Entity\obj\Debug\net7.0\ref\UserManagement.DataAccess.dll
